@@ -1,3 +1,3 @@
 [submodule "deps/dnp3"]
-	path = deps/dnp3
-	url = git://github.com/dnp3/opendnp3.git
+  path = deps/dnp3
+  url = git://github.com/dnp3/opendnp3.git
