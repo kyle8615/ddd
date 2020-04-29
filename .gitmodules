@@ -1,3 +1,6 @@
 [submodule "deps/dnp3"]
-  path = deps/dnp3
-  url = git://github.com/dnp3/opendnp3.git
+	path = deps/dnp3
+	url = https://github.com/automatak/dnp3.git
+[submodule "deps/pybind11"]
+	path = deps/pybind11
+	url = https://github.com/pybind/pybind11.git
